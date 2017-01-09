@@ -1,3 +1,6 @@
+[![coverage](https://coveralls.io/repos/github/jnvm/zany/badge.svg?branch=master)](https://coveralls.io/github/jnvm/zany?branch=master)
+[![build](https://travis-ci.org/jnvm/zany.svg?branch=master)](https://travis-ci.org/jnvm/zany)
+
 # Zany Encoder
 
 Encode & decode any text into any custom alphabet, multibyte code points supported.
