@@ -1,0 +1,25 @@
+{
+  "name": "zany",
+  "version": "1.0.0",
+  "description": "Encode & decode any text into any custom alphabet, multibyte code points supported.",
+  "main": "app.js",
+  "dependencies": {
+    "lazy-unicode": "^1.0.5",
+    "lz-string": "^1.4.4"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.15",
+    "istanbul": "^0.4.5",
+    "tape": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnvm/zany.git"
+  },  
+  "scripts": {
+    "test": "node_modules/.bin/istanbul cover test.js",
+    "coveralls": "cat ./coverage/lcov.info | node node_modules/.bin/coveralls"
+  },
+  "author": "jnvm",
+  "license": "MIT"
+}
