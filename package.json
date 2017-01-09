@@ -1,8 +1,8 @@
 {
   "name": "zany",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "Encode & decode any text into any custom alphabet, multibyte code points supported.",
-  "main": "app.js",
+  "main": "zany.js",
   "dependencies": {
     "lazy-unicode": "^1.0.5",
     "lz-string": "^1.4.4"
