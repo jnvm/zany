@@ -27,7 +27,7 @@ are available at `zany.block.*` via [lazy-unicode](https://www.npmjs.com/package
 ## More Examples
 
 ```javascript
-var zany=require("./zany")
+var zany=require("zany")
 	,message="How now brown cow?"
 	,alphabets={ //make up some alphabets
 		 food:`🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🍅🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯`
