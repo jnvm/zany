@@ -1,6 +1,6 @@
 {
   "name": "zany",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Encode & decode any text into any custom alphabet, multibyte code points supported.",
   "main": "zany.js",
   "dependencies": {
