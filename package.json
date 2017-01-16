@@ -64,6 +64,10 @@
     "base conversion",
     "base converter"
   ],
+  "bugs": {
+    "url": "https://github.com/jnvm/zany/issues"
+  },
+  "homepage": "https://github.com/jnvm/zany#readme"
   "author": "Joη <j@nvm.io> (http://nvm.io)",
   "license": "MIT"
 }
